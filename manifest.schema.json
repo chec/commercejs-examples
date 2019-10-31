@@ -1,0 +1,24 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "slug": {
+        "type": "string"
+      },
+      "githubSlug": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "instructions": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      }
+    },
+    "required": ["slug", "githubSlug", "name"]
+  }
+}

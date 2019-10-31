@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "hello-store",
+    "githubSlug": "ScopeyNZ/hello",
+    "name": "Test store",
+    "instructions": "Do some stuff and it's done!",
+    "description": "Testing for the CLI"
+  }
+]
