@@ -17,6 +17,9 @@
       },
       "description": {
         "type": "string"
+      },
+      "branch": {
+        "type": "string"
       }
     },
     "required": ["slug", "githubSlug", "name"]
