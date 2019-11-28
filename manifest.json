@@ -12,5 +12,11 @@
     "name": "Shoe store",
     "description": "An example shoe store showcasing product variants and hosted checkout",
     "branch": "react.js"
+  },
+  {
+    "slug": "example-store-boilerplate",
+    "githubSlug": "chec/example-store-boilerplate",
+    "name": "Store boilerplate",
+    "description": "An example store boilerplate with a minimal design"
   }
 ]
