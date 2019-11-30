@@ -1,7 +1,7 @@
 [
   {
     "slug": "react-shoe-store",
-    "githubSlug": "ScopeyNZ/example.checkout.v2",
+    "githubSlug": "chec/example.checkout.v2",
     "name": "Shoe store",
     "description": "An example shoe store showcasing product variants and hosted checkout",
     "branch": "react.js"
