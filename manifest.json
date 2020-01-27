@@ -3,8 +3,15 @@
     "slug": "react-shoe-store",
     "githubSlug": "chec/example.checkout.v2",
     "name": "Shoe store",
-    "description": "An example shoe store showcasing product variants and hosted checkout",
+    "description": "An example shoe store showcasing product variants and hosted checkout in React.js",
     "branch": "react.js"
+  },
+  {
+    "slug": "vue-shoe-store",
+    "githubSlug": "chec/example.checkout.v2",
+    "name": "Shoe store",
+    "description": "An example shoe store showcasing product variants and hosted checkout in Vue.js",
+    "branch": "vue.js"
   },
   {
     "slug": "example-store-boilerplate",
