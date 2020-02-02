@@ -12,12 +12,12 @@ Below, we have broken down our resources into categories with descriptions:
 
 ## Guides 
 
-Our guides are smaller eCommerce logic functionalities for you to get set up and running with integrating Commerce.js. Below you will find a list of Commerce.js functionalities being implemented in example projects:
+Our guides are smaller eCommerce logic functionalities for you to get set up and running with integrating Commerce.js or instructions on using other Commerce.js tools.
 
 | Guides   |      Description      |
 |----------|-------------|
-| [Email receipt template](https://github.com/chec/chec-receipt) |  Email order receipt confirmation using MJML |
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
+| [Email receipt template](https://github.com/chec/chec-receipt) |  Email order receipt confirmation using MJML |
 
 
 ## Examples
