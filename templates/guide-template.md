@@ -29,13 +29,13 @@ List prerequisite knowledge if any
 
 A step by step series on how to get a development environment running
 
-Say what the step will be
+1. Say what the step will be
 
 ```
 Give the example
 ```
 
-And repeat
+2. And repeat
 
 ```
 until finished
