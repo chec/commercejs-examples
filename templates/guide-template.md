@@ -6,16 +6,12 @@ One line of project description goes here
 
 A summary of project's intent or overview of what will be accomplished
 
-## Getting Started
-
-These instructions will get you a clone of the project up and running on your local machine for development and testing purposes. 
-
 ### Requirements
 
 List the software or tools needed
 - 1st tool
 - 2nd tool
-- ...
+- 3rd tool
 
 ### Prerequisites
 
@@ -25,7 +21,7 @@ List prerequisite knowledge if any
 - ...
 
 
-### Installation
+### Installing project dependencies
 
 A step by step series on how to get a development environment running
 
@@ -41,9 +37,27 @@ Give the example
 until finished
 ```
 
+### Installing Commerce.js
+
+Use our Commerce.js SDK to access the Chec API data
+
+*Choose either one of the installation methods:* 
+
+1. Installing via CDN
+
+```
+installation script
+```
+
+2. Installing via SDK
+
+```
+installation script
+```
+
 ### Project usage
 
-A step by step series on how to clone and get started with using this project
+A step by step series on injecting Commerce.js logic
 
 1. Say what the step will be
 
@@ -57,11 +71,7 @@ Give the example
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+End with linking an example of live project or demo 
 
 
 ## Deployment
@@ -82,3 +92,6 @@ Add notes on deploying project on live system.
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
+## Options
+
+Add any additional customization notes if any

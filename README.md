@@ -8,7 +8,7 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|------|
 | Examples |   Examples of modular eCommerce functionalities demonstrated on online IDE editors/code playgrounds   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
 | Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
-| Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/) with a Github repo and a README file containing instructions to set up project |
+| Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/) |
 
 ## Guides 
 
@@ -17,7 +17,7 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 | Guides   |      Description      |
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
-| [Email receipt template](https://github.com/chec/chec-receipt) |  Email order receipt confirmation using MJML |
+| [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
 
 
 ## Examples
