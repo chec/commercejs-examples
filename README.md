@@ -40,7 +40,7 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 
 ## Contributing to our resources
 
-If you'd like to contribute to our resources with an example project you have developed using Chec and the Commerce.js SDK. Please checkout our template guidelines on writing guides and tutorial:
+If you'd like to contribute to our resources with an example project you have developed using Chec and the Commerce.js SDK, please refer to our template guidelines on writing guides and tutorial:
 
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)

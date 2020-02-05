@@ -8,7 +8,7 @@ A summary of project's intent or overview of what will be accomplished
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a clone of the project up and running on your local machine for development and testing purposes. 
 
 ### Requirements
 
@@ -66,7 +66,7 @@ Explain how to run the automated tests for this system
 
 ## Deployment
 
-Add additional notes on deployment steps
+Add notes on deploying project on live system.
 
 ## Built With
 
@@ -74,19 +74,11 @@ Add additional notes on deployment steps
 * [TailwindCSS](link) - The web framework used
 * [Yarn](link) - The web framework used
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/chec) for details on our code of conduct, and the process for submitting pull requests to us.
-
 
 ## Authors
 
-* **Name** - *Initial work* - [Name](https://github.com/chec)
+* **Name** - [Github](https://github.com/chec)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
