@@ -6,10 +6,9 @@ Below, we have broken down our resources into categories with descriptions:
 
 | Resource   |      Description      |  Where are these hosted? |
 |----------|-------------|------|
-| Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
 | Examples |   Examples of modular eCommerce functionalities demonstrated on online IDE editors/code playgrounds   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
+| Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
 | Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/) with a Github repo and a README file containing instructions to set up project |
-| eCommerce UI Component Library | Coming soon... | Storybook  |
 
 ## Guides 
 
