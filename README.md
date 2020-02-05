@@ -26,8 +26,10 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 | Examples   |      Description      |
 |----------|-------------|
 | [Product catalogue]() |  A basic product catalogue with individual product cards  |
-| [Cart]() |  Description |
-| [Checkout]() |  Description |
+| [Product card]() |  Product card layout  |
+| [Product details]() |  Single page product details  |
+| [Cart]() |  Cart with line items |
+| [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A basic checkout form |
 | [Buy button]() |  Simple Chec buy button demo |
 
 ## Tutorials 
