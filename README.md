@@ -10,8 +10,7 @@ Below, we have broken down our resources into categories with descriptions:
 | Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
 | Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/) |
 
-</br>
-</br>
+
 ## Examples
 
 | Examples   |      Description      |
@@ -22,8 +21,6 @@ Below, we have broken down our resources into categories with descriptions:
 | [Cart]() |  Cart with line items |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 installed as CDN |
 
-</br>
-</br>
 ## Guides 
 
 | Guides   |      Description      |
@@ -31,8 +28,6 @@ Below, we have broken down our resources into categories with descriptions:
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
 
-</br>
-</br>
 ## Tutorials 
 
 | Tutorials   |      Description      |
@@ -40,8 +35,6 @@ Below, we have broken down our resources into categories with descriptions:
 | [React demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A full-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js v2 |
 | [Vue demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Live demo](https://codesandbox.io/s/vue-demo-store-z6twt) |  A basic demo store with a product catalogue, cart and checkout built with Commerce.js v2 |
 
-</br>
-</br>
 ## Contributing to our resources
 
 If you'd like to contribute to our resources with an example project you have developed using Chec and the Commerce.js SDK, please refer to our template guidelines on writing guides and tutorial:
@@ -49,10 +42,8 @@ If you'd like to contribute to our resources with an example project you have de
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)
 
-</br>
-</br>
 ## Internal 
 
-**Naming convention for project repo:** 
+**Naming convention for project repo: ** 
 
 chec/framework-demo-store
