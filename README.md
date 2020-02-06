@@ -29,7 +29,6 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 | [Product details]() |  Single page product details  |
 | [Cart]() |  Cart with line items |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 installed as CDN |
-| [Buy button]() |  Simple Chec buy button demo |
 
 ## Tutorials 
 
