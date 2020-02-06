@@ -10,15 +10,6 @@ Below, we have broken down our resources into categories with descriptions:
 | Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
 | Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/) |
 
-## Guides 
-
-Our guides include smaller eCommerce logic functionalities for you to get set up and running with integrating Commerce.js or instructions on using other Commerce.js tools.
-
-| Guides   |      Description      |
-|----------|-------------|
-| [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
-| [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
-
 
 ## Examples
 
@@ -29,6 +20,13 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 | [Product details]() |  Single page product details  |
 | [Cart]() |  Cart with line items |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 installed as CDN |
+
+## Guides 
+
+| Guides   |      Description      |
+|----------|-------------|
+| [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
+| [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
 
 ## Tutorials 
 
@@ -43,3 +41,9 @@ If you'd like to contribute to our resources with an example project you have de
 
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)
+
+## Internal 
+
+Naming convention for project repo:
+
+chec/framework-demo-store
