@@ -48,7 +48,7 @@ installation script
 
 A step by step series on injecting Commerce.js logic.
 
-1. First step of Commerce.js logic
+1. First step of injecting Commerce.js logic
 
 ```
 example script
@@ -72,7 +72,7 @@ End with linking an example of live project or demo.
 
 ## Built With
 
-List all frameworks/tools used
+List all frameworks/tools used.
 
 * [Vue.js](link) - The web framework used
 * [TailwindCSS](link) - The web framework used
@@ -86,4 +86,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Options
 
-Add any additional customization notes if any
+Add any additional customization notes if any.
