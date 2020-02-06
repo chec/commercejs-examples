@@ -24,7 +24,7 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 
 | Examples   |      Description      |
 |----------|-------------|
-| [Product catalogue]() |  A basic product catalogue with individual product cards  |
+| [Product catalogue](https://codepen.io/commercejs/pen/ZEGEpQd) |  A basic product catalogue built with Commerce.js v2 and Vue.js  |
 | [Product card]() |  Product card layout  |
 | [Product details]() |  Single page product details  |
 | [Cart]() |  Cart with line items |
