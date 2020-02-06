@@ -2,6 +2,8 @@
 
 One line of project description goes here
 
+[Live Demo]()
+
 ## Overview
 
 A summary of project's intent or overview of what will be accomplished
@@ -23,22 +25,6 @@ List prerequisite knowledge if any
 - ...
 - ...
 
-
-### Installing project dependencies
-
-A step by step series on how to get a development environment running
-
-1. Say what the step will be
-
-```
-Give the example
-```
-
-2. And repeat
-
-```
-until finished
-```
 
 ### Installing Commerce.js
 
@@ -62,16 +48,22 @@ installation script
 
 A step by step series on injecting Commerce.js logic
 
-1. Say what the step will be
+1. First step of Commerce.js logic
 
 ```
-Give the example
+example script
 ```
 
 2. And repeat
 
 ```
-until finished
+example script
+```
+
+2. Until finished
+
+```
+example script
 ```
 
 End with linking an example of live project or demo 
@@ -79,6 +71,8 @@ End with linking an example of live project or demo
 
 
 ## Built With
+
+List all frameworks/tools used
 
 * [Vue.js](link) - The web framework used
 * [TailwindCSS](link) - The web framework used

@@ -70,30 +70,38 @@ installation script
 
 A step by step series on injecting Commerce.js logic
 
-1. Say what the step will be
+1. First step of Commerce.js logic
 
 ```
-Give the example
+example script
 ```
 
 2. And repeat
 
 ```
-until finished
+example script
 ```
 
-End with linking an example of live project or demo 
+2. Until finished
+
+```
+example script
+```
+
+End with linking an example of live project or demo.
+[Live Demo]()
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
+Explain how to run the automated tests for this system.
 
 ## Deployment
 
 Add notes on deploying project on live system.
 
 ## Built With
+
+List all frameworks/tools used
 
 * [Vue.js](link) - The web framework used
 * [TailwindCSS](link) - The web framework used
