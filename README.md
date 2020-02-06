@@ -24,11 +24,11 @@ Our guides include smaller eCommerce logic functionalities for you to get set up
 
 | Examples   |      Description      |
 |----------|-------------|
-| [Product catalogue](https://codepen.io/commercejs/pen/ZEGEpQd) |  A basic product catalogue built with Commerce.js v2 and Vue.js  |
+| [Product catalogue](https://codepen.io/commercejs/pen/ZEGEpQd) |  A basic product catalogue built with Commerce.js v2 installed as CDN and Vue.js  |
 | [Product card]() |  Product card layout  |
 | [Product details]() |  Single page product details  |
 | [Cart]() |  Cart with line items |
-| [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 via CDN |
+| [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 installed as CDN |
 | [Buy button]() |  Simple Chec buy button demo |
 
 ## Tutorials 
