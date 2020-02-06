@@ -29,12 +29,11 @@ List prerequisite knowledge if any
 
 ## Getting Started
 
-These instructions a project up and running on your local machine for development
-
+These instructions guides you on getting a project up and running on your local machine for development.
 
 ### Installing project dependencies
 
-A step by step series on how to get a development environment running
+A step by step series on how to get a development environment running.
 
 1. Say what the step will be
 
@@ -50,7 +49,7 @@ until finished
 
 ### Installing Commerce.js
 
-Use our Commerce.js SDK to access the Chec API data
+Use our Commerce.js SDK to access the Chec API data from your application.
 
 *Choose either one of the installation methods:* 
 
@@ -68,7 +67,7 @@ installation script
 
 ### Project usage
 
-A step by step series on injecting Commerce.js logic
+A step by step series on injecting Commerce.js logic.
 
 1. First step of Commerce.js logic
 
@@ -89,6 +88,7 @@ example script
 ```
 
 End with linking an example of live project or demo.
+
 [Live Demo]()
 
 ## Running the tests

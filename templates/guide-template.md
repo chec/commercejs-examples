@@ -1,26 +1,26 @@
 # Project Title
 
-One line of project description goes here
+One line of project description goes here.
 
 [Live Demo]()
 
 ## Overview
 
-A summary of project's intent or overview of what will be accomplished
+A summary of project's intent or overview of what will be accomplished.
 1. ...
 2. ...
 3. ...
 
 ### Requirements
 
-List the software or tools needed
+List the software or tools needed.
 - 1st tool
 - 2nd tool
 - 3rd tool
 
 ### Prerequisites
 
-List prerequisite knowledge if any
+List prerequisite knowledge if any.
 - ...
 - ...
 - ...
@@ -28,7 +28,7 @@ List prerequisite knowledge if any
 
 ### Installing Commerce.js
 
-Use our Commerce.js SDK to access the Chec API data
+Use our Commerce.js SDK to access the Chec API data from your application.
 
 *Choose either one of the installation methods:* 
 
@@ -46,7 +46,7 @@ installation script
 
 ### Project usage
 
-A step by step series on injecting Commerce.js logic
+A step by step series on injecting Commerce.js logic.
 
 1. First step of Commerce.js logic
 
@@ -66,7 +66,7 @@ example script
 example script
 ```
 
-End with linking an example of live project or demo 
+End with linking an example of live project or demo.
 [Live Demo]()
 
 
