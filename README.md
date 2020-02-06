@@ -46,4 +46,4 @@ If you'd like to contribute to our resources with an example project you have de
 
 Naming convention for project repo:
 
-chec/framework-demo-store
+|  chec/framework-demo-store  |
