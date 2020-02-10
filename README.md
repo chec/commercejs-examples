@@ -31,8 +31,8 @@ Below, we have broken down our resources into categories with descriptions:
 
 | Tutorials   |      Description      |
 |----------|-------------|
-| [React demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A full-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js v2 |
-| [Vue demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Live demo](https://codesandbox.io/s/vue-demo-store-z6twt) |  A basic demo store with a product catalogue, cart and checkout built with Commerce.js v2 |
+| [Vue.js demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A fully-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js v2 |
+| [Vue.js demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Live demo](https://codesandbox.io/s/vue-demo-store-z6twt) |  A simple demo store with a product catalogue, cart and checkout built with Commerce.js v2 |
 
 ## Contributing to our resources
 
