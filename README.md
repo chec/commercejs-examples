@@ -6,8 +6,8 @@ Below, we have broken down our resources into categories with descriptions:
 
 | Resource   |      Description      |  Where are these hosted? |
 |----------|-------------|------|
-| Examples |   Examples of modular eCommerce functionalities demonstrated on online IDE editors/code playgrounds   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
-| Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
+| Examples |   Examples of modular eCommerce functionalities demonstrated on online IDE editors/code playgrounds.   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
+| Guides |  Step-by-step guides on eCommerce functionalities and instructions on using other Commerce.js tools. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
 | Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/) |
 
 
@@ -17,8 +17,13 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
 | [Product card](https://codepen.io/commercejs/pen/RwPwqaw) |  Product card layout  |
+<<<<<<< HEAD
 | [Cart](https://codesandbox.io/s/cart-demo-mh13b) |  Cart Demo |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 installed as CDN |
+=======
+| [Cart]() |  Cart with line items |
+| [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js SDK v2 installed as CDN |
+>>>>>>> b4d2146d23f6cef6fe435917de30bad74f825218
 
 ## Guides 
 
@@ -31,12 +36,12 @@ Below, we have broken down our resources into categories with descriptions:
 
 | Tutorials   |      Description      |
 |----------|-------------|
-| [React demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A full-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js v2 |
-| [Vue demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Live demo](https://codesandbox.io/s/vue-demo-store-z6twt) |  A basic demo store with a product catalogue, cart and checkout built with Commerce.js v2 |
+| [Vue.js demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A fully-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js SDK v2 |
+| [Vue.js demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Live demo](https://codesandbox.io/s/vue-demo-store-z6twt) |  A simple demo store with a product catalogue, cart and checkout built with Commerce.js SDK v2 |
 
 ## Contributing to our resources
 
-If you'd like to contribute to our resources with an example project you have developed using Chec and the Commerce.js SDK, please refer to our template guidelines on writing guides and tutorial:
+If you'd like to contribute to our resources with an example project you have developed using Chec API and the Commerce.js SDK, please refer to our template guidelines on writing guides and tutorial:
 
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)
