@@ -16,8 +16,8 @@ Below, we have broken down our resources into categories with descriptions:
 | Examples   |      Description      |
 |----------|-------------|
 | [Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
-| [Product card](https://codepen.io/commercejs/pen/RwPwqaw) |  A Product card layout built with Commerce.js SDK v2 installed as CDN  |
-| [Cart](https://codesandbox.io/s/cart-demo-mh13b) |  An add to cart application built with Commerce.js SDK v2 |
+| [Product card](https://codepen.io/commercejs/pen/RwPwqaw) |  A product card layout built with Commerce.js SDK v2 installed as CDN  |
+| [Cart Modal](https://codesandbox.io/s/cart-demo-mh13b) |  A cart application built with Commerce.js SDK v2 |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js SDK v2 installed as CDN |
 
 ## Guides 
@@ -32,7 +32,7 @@ Below, we have broken down our resources into categories with descriptions:
 | Tutorials   |      Description      |
 |----------|-------------|
 | [Vue.js demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A fully-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js SDK v2 |
-| [Vue.js demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Live demo](https://codesandbox.io/s/vue-demo-store-z6twt) |  A simple demo store with a product catalogue, cart and checkout built with Commerce.js SDK v2 |
+| [Vue.js demo store](https://github.com/jaepass/example-cjs-vue)</br> - [Code playground](https://codesandbox.io/s/vue-demo-store-z6twt) |  A simple demo store with a product catalogue, cart and checkout built with Commerce.js SDK v2 |
 
 ## Contributing to our resources
 
