@@ -16,14 +16,9 @@ Below, we have broken down our resources into categories with descriptions:
 | Examples   |      Description      |
 |----------|-------------|
 | [Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
-| [Product card](https://codepen.io/commercejs/pen/RwPwqaw) |  Product card layout  |
-<<<<<<< HEAD
-| [Cart](https://codesandbox.io/s/cart-demo-mh13b) |  Cart Demo |
-| [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js v2 installed as CDN |
-=======
-| [Cart]() |  Cart with line items |
+| [Product card](https://codepen.io/commercejs/pen/RwPwqaw) |  A Product card layout built with Commerce.js SDK v2 installed as CDN  |
+| [Cart](https://codesandbox.io/s/cart-demo-mh13b) |  An add to cart application built with Commerce.js SDK v2 |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js SDK v2 installed as CDN |
->>>>>>> b4d2146d23f6cef6fe435917de30bad74f825218
 
 ## Guides 
 
