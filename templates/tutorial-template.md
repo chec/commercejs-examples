@@ -2,7 +2,7 @@
 
 One line of project description goes here.
 
-Indicate which version of Commerce.js is used: v1 or v2
+Indicate which version of Commerce.js SDK/CDN is used: v1 or v2
 
 [Live Demo]()
 
