@@ -26,7 +26,7 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
-| [React.js - Listing products in a catalog](https://github.com/kingmoc/product-list-cjs-react) | Start a React project by displaying products in your app |
+| [React.js - Listing products in a catalogue](https://github.com/kingmoc/product-list-cjs-react) | Start a React project by displaying products in your app |
 
 ## Tutorials 
 
