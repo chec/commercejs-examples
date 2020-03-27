@@ -18,6 +18,7 @@ Below, we have broken down our resources into categories with descriptions:
 | [Vue.js - Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
 | [React.js - Product catalogue](https://codesandbox.io/s/ecommerce-playground-vp5m6) | A simple product catalogue built with Commerce.js SDK v2 and React.js |
 | [Vue.js - Product card](https://codepen.io/commercejs/pen/poJgXjM) |  A product card layout built with Commerce.js SDK v2 installed as CDN  |
+| [Vue.js - Add to Cart](https://codesandbox.io/s/vuejs-ecommerce-cart-handling-project-with-commercejs-wvi92) | A cart with cart total display built with Commerce.js SDK v2 |
 | [Vue.js - Cart Modal](https://codesandbox.io/s/cart-demo-mh13b) |  A cart application built with Commerce.js SDK v2 |
 | [Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla basic checkout form built with Commerce.js SDK v2 installed as CDN |
 
@@ -27,8 +28,11 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
-| [React.js - Listing products in a catalogue](https://github.com/kingmoc/product-list-cjs-react/blob/master/README.md) | Start a React project by displaying products in your app |
+| [Vue.js - Adding products to a cart](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_cart_VueJS/blob/master/README.md) | Create a simple shopping cart for your Vue.js app |
+| [React.js - Displaying products in a catalogue](https://github.com/kingmoc/product-list-cjs-react/blob/master/README.md) | Display products in your React app |
+| [React.js - Listing products in a catalogue](https://github.com/robingram/commercejs-list-products-react/blob/master/README.md) | Using React and Bootstrap, list your products with the Commerce.js SDK |
 | [React.js - Adding products to cart](https://github.com/kingmoc/adding-products-cart-cjs-react/blob/master/README.md) | Create and add prodcts to cart in your React eCommerce app |
+| [React.js - Creating a single page checkout](https://github.com/kingmoc/single-page-checkout-cjs-react/blob/master/README.md) | Build a single page checkout with Stripe and the Commerce.js SDK |
 | [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
 
 ## Tutorials 
