@@ -28,12 +28,13 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
+| [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
+| [Nuxt.js - Adding products to a dynamic cart](https://github.com/ElijahKotyluk/nuxt-cjs-adding-products/blob/master/README.md) | Create a dynamic sliding cart and add products to it using Nuxt.js and Commerce.js SDK |
 | [Vue.js - Adding products to a cart](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_cart_VueJS/blob/master/README.md) | Create a simple shopping cart for your Vue.js app |
 | [React.js - Displaying products in a catalogue](https://github.com/kingmoc/product-list-cjs-react/blob/master/README.md) | Display products in your React app |
 | [React.js - Listing products in a catalogue](https://github.com/robingram/commercejs-list-products-react/blob/master/README.md) | Using React and Bootstrap, list your products with the Commerce.js SDK |
 | [React.js - Adding products to cart](https://github.com/kingmoc/adding-products-cart-cjs-react/blob/master/README.md) | Create and add prodcts to cart in your React eCommerce app |
 | [React.js - Creating a single page checkout](https://github.com/kingmoc/single-page-checkout-cjs-react/blob/master/README.md) | Build a single page checkout with Stripe and the Commerce.js SDK |
-| [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
 
 ## Tutorials 
 
