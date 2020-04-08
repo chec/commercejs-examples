@@ -28,6 +28,7 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
+| [Webhooks - Slack notification for new orders](https://dev.to/notrab/get-notified-via-slack-for-new-chec-orders-414m) | Get notified via Slack when you recieve new orders |
 | [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
 | [Nuxt.js - Adding products to a dynamic cart](https://github.com/ElijahKotyluk/nuxt-cjs-adding-products/blob/master/README.md) | Create a dynamic sliding cart and add products to it using Nuxt.js and Commerce.js SDK |
 | [Vue.js - Adding products to a cart](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_cart_VueJS/blob/master/README.md) | Create a simple shopping cart for your Vue.js app |
