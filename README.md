@@ -16,10 +16,12 @@ Below, we have broken down our resources into categories with descriptions:
 | Examples   |      Description      |
 |----------|-------------|
 | [React.js - Product catalogue](https://codesandbox.io/s/ecommerce-playground-vp5m6) | A simple product catalogue built with Commerce.js SDK v2 and React.js |
+| [Vue.js - Full eCommerce app](https://codesandbox.io/s/github/norty-squad/commerce.js-integration-example) | A complete eCommerce app with cart, checkout and receipt |
 | [Vue.js - Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
 | [Vue.js - Product card](https://codepen.io/commercejs/pen/poJgXjM) |  A product card layout built with Commerce.js SDK v2 installed as CDN  |
 | [Vue.js - Add to Cart](https://codesandbox.io/s/vuejs-ecommerce-cart-handling-project-with-commercejs-wvi92) | A cart with cart total display built with Commerce.js SDK v2 |
 | [Vue.js - Cart Modal](https://codesandbox.io/s/cart-demo-mh13b) |  A cart application built with Commerce.js SDK v2 |
+| [Vue.js - Checkout](https://codesandbox.io/s/commercejs-checkout-demo-dfqzl) | A checkout for capturing orders built with Vue.js and Commerce.js SDK v2 |
 | [HTML + CSS - Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla checkout form, built with the Commerce.js SDK v2 installed as a CDN |
 
 ## Guides 
@@ -32,12 +34,16 @@ Below, we have broken down our resources into categories with descriptions:
 | [Webhooks - Twilio notifications for new orders](https://github.com/robbieaverill/chec-order-callback/blob/master/README.md) | Recieve SMS notificatons via Twilio when a new order is placed |
 | [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
 | [Nuxt.js - Adding products to a dynamic cart](https://github.com/ElijahKotyluk/nuxt-cjs-adding-products/blob/master/README.md) | Create a dynamic sliding cart and add products to it using Nuxt.js and Commerce.js SDK |
+| [Nuxt.js - Creating a checkout](https://github.com/ElijahKotyluk/commercejs-nuxt-checkout/blob/master/README.md) | Build a simple checkout using Nuxt.js and Commerce.js |
 | [Vue.js - Adding products to a cart](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_cart_VueJS/blob/master/README.md) | Create a simple shopping cart for your Vue.js app |
+| [Vue.js - Handling the checkout](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_Checkout_VueJS/blob/master/README.md) | Create a checkout form to capture an order in Vue.js|
 | [React.js - Displaying products in a catalogue](https://github.com/kingmoc/product-list-cjs-react/blob/master/README.md) | Display products in your React app |
 | [React.js - Listing products in a catalogue](https://github.com/robingram/commercejs-list-products-react/blob/master/README.md) | Using React and Bootstrap, list your products with the Commerce.js SDK |
+| [React.js - Adding products to a cart with reccomended products](https://github.com/robingram/commercejs-add-to-cart-react/blob/master/README.md) | Create a simple cart for a React.js app that also displays recommended products |
 | [React.js - Adding products to cart](https://github.com/kingmoc/adding-products-cart-cjs-react/blob/master/README.md) | Create and add prodcts to cart in your React eCommerce app |
 | [React.js - Creating a single page checkout](https://github.com/kingmoc/single-page-checkout-cjs-react/blob/master/README.md) | Build a single page checkout with Stripe and the Commerce.js SDK |
 | [React.js - Displaying a receipt + webhook notification](https://github.com/kingmoc/create-receipt-webhook-slack-notification-cjs-react/blob/master/README.md) | Create an order confirmation display to the customer plus build a webhook notification with Slack |
+| [Gatsby - Building static product pages](https://dev.to/notrab/build-static-product-pages-with-gatsby-and-commerce-js-3952) | Building static product pages on the JAMstack with Gatsby and Commerce.js |
 
 ## Tutorials 
 
