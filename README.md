@@ -63,7 +63,7 @@ If you'd like to contribute to our resources with an example project you have de
 
 **Naming convention for demo repositories: ** 
 
-commercejs-<FRONT-END>-demo-<SCOPE>
+commercejs-{FRONT-END}-demo-{SCOPE}
 
 Examples:
 - commercejs-nextjs-demo-cart
