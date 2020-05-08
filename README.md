@@ -61,6 +61,11 @@ If you'd like to contribute to our resources with an example project you have de
 
 ## Internal 
 
-**Naming convention for project repo: ** 
+**Naming convention for demo repositories: ** 
 
-chec/framework-demo-store
+commercejs-<FRONT-END>-demo-<SCOPE>
+
+Examples:
+- commercejs-nextjs-demo-cart
+- commercejs-react-demo-store
+- commercejs-react-demo-cart
