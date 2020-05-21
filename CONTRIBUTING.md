@@ -1,4 +1,4 @@
- # Contributing
+# Contributing
 
 If you would like to contribute to our developer resources, please refer to the following set of guidelines.
 
