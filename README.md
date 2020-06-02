@@ -30,11 +30,13 @@ Below, we have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
+| [Email - Adding customers to Drip at checkout](https://dev.to/commercejs/add-customers-as-people-to-drip-on-checkout-1p02) | Add your customers to Drip for more contexutal email markeeting | 
 | [Webhooks - Slack notifications for new orders](https://dev.to/notrab/get-notified-via-slack-for-new-chec-orders-414m) | Get notified via Slack when you recieve new orders |
 | [Webhooks - Twilio notifications for new orders](https://github.com/robbieaverill/chec-order-callback/blob/master/README.md) | Recieve SMS notificatons via Twilio when a new order is placed |
 | [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
 | [Nuxt.js - Adding products to a dynamic cart](https://github.com/ElijahKotyluk/nuxt-cjs-adding-products/blob/master/README.md) | Create a dynamic sliding cart and add products to it using Nuxt.js and Commerce.js SDK |
 | [Nuxt.js - Creating a checkout](https://github.com/ElijahKotyluk/commercejs-nuxt-checkout/blob/master/README.md) | Build a simple checkout using Nuxt.js and Commerce.js |
+| [Nuxt.js - Order confirmation and webhooks](https://github.com/ElijahKotyluk/commercejs-nuxt-webhooks/blob/master/README.md) | Create a webhook to send an email via SendGrid to the customer after the checkout |
 | [Vue.js - Adding products to a cart](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_cart_VueJS/blob/master/README.md) | Create a simple shopping cart for your Vue.js app |
 | [Vue.js - Handling the checkout](https://github.com/thomas-t-huynh/CommerceJS_How_to_handle_Checkout_VueJS/blob/master/README.md) | Create a checkout form to capture an order in Vue.js|
 | [React.js - Displaying products in a catalogue](https://github.com/kingmoc/product-list-cjs-react/blob/master/README.md) | Display products in your React app |
