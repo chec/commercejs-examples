@@ -15,6 +15,7 @@ Below, we have broken down our resources into categories with descriptions:
 
 | Examples   |      Description      |
 |----------|-------------|
+| [Three.js - Product display](https://po30k.csb.app/) | Displaying a Three.js product annimation in a React app |
 | [React.js - Product catalogue](https://codesandbox.io/s/ecommerce-playground-vp5m6) | A simple product catalogue built with Commerce.js SDK v2 and React.js |
 | [Vue.js - Full eCommerce app](https://codesandbox.io/s/github/norty-squad/commerce.js-integration-example) | A complete eCommerce app with cart, checkout and receipt |
 | [Vue.js - Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
@@ -45,6 +46,7 @@ Below, we have broken down our resources into categories with descriptions:
 | [React.js - Adding products to cart](https://github.com/kingmoc/adding-products-cart-cjs-react/blob/master/README.md) | Create and add prodcts to cart in your React eCommerce app |
 | [React.js - Creating a single page checkout](https://github.com/kingmoc/single-page-checkout-cjs-react/blob/master/README.md) | Build a single page checkout with Stripe and the Commerce.js SDK |
 | [React.js - Displaying a receipt + webhook notification](https://github.com/kingmoc/create-receipt-webhook-slack-notification-cjs-react/blob/master/README.md) | Create an order confirmation display to the customer plus build a webhook notification with Slack |
+| [Three.js - Building a product display page with React](https://github.com/Andreloui5/CommerceWithThree/blob/master/README.md) | Create a product diosplay page with a Three.js renedered product image |
 | [Gatsby - Building static product pages](https://dev.to/notrab/build-static-product-pages-with-gatsby-and-commerce-js-3952) | Build static product pages on the JAMstack with Gatsby and Commerce.js |
 
 ## Tutorials 
