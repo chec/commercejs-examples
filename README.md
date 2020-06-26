@@ -30,7 +30,7 @@ Below, we have broken down our resources into categories with descriptions:
 | Guides   |      Description      |
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
-| [Email receipt template](https://github.com/chec/chec-receipt) |  Create an email order receipt using MJML |
+| [Email receipt template](https://github.com/chec/example-chec-receipt-mjml/blob/master/README.md) |  Create an email order receipt using MJML |
 | [Email - Adding customers to Drip at checkout](https://dev.to/commercejs/add-customers-as-people-to-drip-on-checkout-1p02) | Add your customers to Drip for more contexutal email marketing | 
 | [Webhooks - Slack notifications for new orders](https://dev.to/notrab/get-notified-via-slack-for-new-chec-orders-414m) | Get notified via Slack when you recieve new orders |
 | [Webhooks - Twilio notifications for new orders](https://github.com/robbieaverill/chec-order-callback/blob/master/README.md) | Recieve SMS notificatons via Twilio when a new order is placed |
