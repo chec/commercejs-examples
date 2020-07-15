@@ -48,7 +48,7 @@ Below, we have broken down our resources into categories with descriptions:
 | [React.js - Creating a single page checkout](https://github.com/kingmoc/single-page-checkout-cjs-react/blob/master/README.md) | Build a single page checkout with Stripe and the Commerce.js SDK |
 | [React.js - Displaying a receipt + webhook notification](https://github.com/kingmoc/create-receipt-webhook-slack-notification-cjs-react/blob/master/README.md) | Create an order confirmation display to the customer plus build a webhook notification with Slack |
 | [Three.js - Building a product display page with React](https://github.com/Andreloui5/CommerceWithThree/blob/master/README.md) | Create a product display page with a Three.js rendered product image |
-| [Three.js - Creating a car with React](https://github.com/Andreloui5/CommerceWithThree-part2/blob/master/README.md) | Create a interactive cart with Three.js rendered products |
+| [Three.js - Creating a cart with React](https://github.com/Andreloui5/CommerceWithThree-part2/blob/master/README.md) | Create a interactive cart with Three.js rendered products |
 | [Gatsby - Building static product pages](https://dev.to/notrab/build-static-product-pages-with-gatsby-and-commerce-js-3952) | Build static product pages on the JAMstack with Gatsby and Commerce.js |
 
 ## Tutorials 
