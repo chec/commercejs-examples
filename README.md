@@ -13,8 +13,8 @@ We have broken down our resources into categories with descriptions:
 | Videos | Short sharp video guides demonstrating how to use the Commerce.js SDK to build projects | 
 
 ## Demo stores
-| Resource   |      Description      |  Where are these hosted? |
-|----------|-------------|------|
+| Resource   |      Description      |  
+|----------|-------------|
 | [Next.js - Fullly fledged eCommerce store](https://github.com/chec/commercejs-nextjs-demo-store) | Open source demo store that can be one click deployed to **Netlify**. [Read the integration blog](https://www.netlify.com/blog/2020/07/09/create-a-fully-fledged-jamstack-commerce-store-with-commerce.js-and-netlify/) |
 | [Next.js - Fully fledged eCommerce store](https://github.com/chec/commercejs-nextjs-vercel) | Open source demo store that can be one click deployed to **Vercel** |
 | [React.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store) | Lightweight demo store in React.js |
