@@ -10,7 +10,7 @@ We have broken down our resources into categories with descriptions:
 | Code Examples |   Examples of granular eCommerce functionality demonstrated via IDE editors/code playgrounds.   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
 | Guides |  Step-by-step guides on eCommerce functionality and instructions on using other Commerce.js tools. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
 | Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/) |
-| Videos | Short sharp video guides demonstrating how to use the Commerce.js SDK to build projects | 
+| Videos | Short sharp video guides demonstrating how to use the Commerce.js SDK to build projects | Youtube
 
 ## Demo stores
 | Resource   |      Description      |  
