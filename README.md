@@ -51,12 +51,23 @@ Below, we have broken down our resources into categories with descriptions:
 | [Three.js - Creating a cart with React](https://github.com/Andreloui5/CommerceWithThree-part2/blob/master/README.md) | Create a interactive cart with Three.js rendered products |
 | [Gatsby - Building static product pages](https://dev.to/notrab/build-static-product-pages-with-gatsby-and-commerce-js-3952) | Build static product pages on the JAMstack with Gatsby and Commerce.js |
 
+
 ## Tutorials 
 
 | Tutorials   |      Description      |
 |----------|-------------|
 | [Vue.js demo store](https://commercejs.com/blog/create-an-ecommerce-store-with-vuejs) |  A fully-fledged demo store handling eCommerce logic such as product catalogue, product variants, cart, checkout, and receipt confirmation built with Commerce.js SDK v2 |
 | [Vue.js demo store](https://github.com/jaepass/example-cjs-vue) |  A simple demo store with a product catalogue, cart and checkout built with Commerce.js SDK v2 |
+| [Nuxt.js storefront](https://dev.to/notrab/create-a-nuxt-js-store-with-commerce-js-585b) | Build a simple storefront with categories and individual product pages using Nuxt.js |
+| [Next.js - Create a Next.js store](https://dev.to/notrab/build-a-next-js-store-with-commerce-js-ceb) |  Build a simple storefront with categories and individual product pages using Next.js |
+| [Gatsby - Create a Gatsby storefront](https://dev.to/notrab/create-a-gatsby-store-with-chec-commerce-js-2kae) | Build a simple storefront with categories and individual product pages using Gatsby |
+
+## Videos
+
+| Video   |      Description      |
+|----------|-------------|
+| [Nuxt.js - Storefront, categories and product pages](https://www.youtube.com/playlist?list=PLs2PzMqLzi7Uu7bRsaIdOE-b8LQDqnLez) | Build a simple storefront with categories and individual product pages using Nuxt.js |
+| [Next.js - Storefront, cstegories and product pages](https://www.youtube.com/playlist?list=PLs2PzMqLzi7VRJoFcBXMabDue2uC6_eJX) | Create a storefront with categories and individual product pages using Next.js |
 
 ## Contributing to our resources
 
