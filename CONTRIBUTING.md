@@ -9,7 +9,7 @@ Please refer to our template guidelines on writing guides and tutorial:
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)
 
-You can submit your contribution on [here](https://commercejs.com/docs/community/contribute).
+You can submit your contribution [here](https://commercejs.com/docs/community/contribute).
 
 ### Resource naming
 
