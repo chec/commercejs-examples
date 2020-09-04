@@ -4,14 +4,14 @@ If you would like to contribute to our developer resources, please refer to the 
 
 We are currently accepting applications to contribute to our developer resources. Please visit our posting [here](https://jobs.lever.co/chec/fbd3c0f2-2586-4a98-a29a-143ac8a8faf4).
 
-## Submitting a New Resource
+## Submitting a new resource
 
 Please refer to our template guidelines on writing guides and tutorial:
 
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)
 
-### Resource Naming
+### Resource naming
 
 **Naming convention for demo repositories: ** 
 
