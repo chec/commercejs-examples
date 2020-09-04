@@ -1,6 +1,6 @@
 # Contributing
 
-If you would like to contribute an integration resource and have your guide or tutororial listed in our [community article listing](https://commercejs.com/docs/community/), please refer to the following set of guidelines.
+If you would like to contribute an integration resource and have your guide or tutorial listed in our [community article listing](https://commercejs.com/docs/community/), please refer to the following set of guidelines.
 
 ## Submitting a new resource
 
