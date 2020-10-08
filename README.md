@@ -1,6 +1,6 @@
 # Resources
 
-Welcome to an index of Commerce.js resources. Here you will find all our integration resources to help you get startyed with your first Chec and Commerce.js project. 
+Welcome to an index of Commerce.js resources. Here you will find all our integration resources to help you get started with your first Chec and Commerce.js project. 
 
 We have broken down our resources into categories with descriptions:
 
@@ -41,8 +41,8 @@ We have broken down our resources into categories with descriptions:
 |----------|-------------|
 | [Chec CLI](https://commercejs.com/blog/getting-started-with-the-chec-cli) |  Guide on getting started with using the Chec CLI |
 | [Email receipt template](https://github.com/chec/example-chec-receipt-mjml/blob/master/README.md) |  Create an email order receipt using MJML |
-| [Email - Adding customers to Drip at checkout](https://dev.to/commercejs/add-customers-as-people-to-drip-on-checkout-1p02) | Add your customers to Drip for more contexutal email marketing | 
-| [Webhooks - Slack notifications for new orders](https://dev.to/notrab/get-notified-via-slack-for-new-chec-orders-414m) | Get notified via Slack when you recieve new orders |
+| [Email - Adding customers to Drip at checkout](https://dev.to/commercejs/add-customers-as-people-to-drip-on-checkout-1p02) | Add your customers to Drip for more contextual email marketing | 
+| [Webhooks - Slack notifications for new orders](https://dev.to/notrab/get-notified-via-slack-for-new-chec-orders-414m) | Get notified via Slack when you receive new orders |
 | [Webhooks - Twilio notifications for new orders](https://github.com/robbieaverill/chec-order-callback/blob/master/README.md) | Recieve SMS notificatons via Twilio when a new order is placed |
 | [Nuxt.js - Listing products in a catalogue](https://github.com/ElijahKotyluk/commercejs-nuxt-demo/blob/master/README.md) | Create a simple Vuex store and rendered your data server-side using Nuxt.js |
 | [Nuxt.js - Adding products to a dynamic cart](https://github.com/ElijahKotyluk/nuxt-cjs-adding-products/blob/master/README.md) | Create a dynamic sliding cart and add products to it using Nuxt.js and Commerce.js SDK |
@@ -53,11 +53,11 @@ We have broken down our resources into categories with descriptions:
 | [React.js - Displaying products in a catalogue](https://github.com/kingmoc/product-list-cjs-react/blob/master/README.md) | Display products in your React app |
 | [React.js - Listing products in a catalogue](https://github.com/robingram/commercejs-list-products-react/blob/master/README.md) | Using React and Bootstrap, list your products with the Commerce.js SDK |
 | [React.js - Adding products to a cart with reccomended products](https://github.com/robingram/commercejs-add-to-cart-react/blob/master/README.md) | Create a simple cart for a React.js app that also displays recommended products |
-| [React.js - Adding products to cart](https://github.com/kingmoc/adding-products-cart-cjs-react/blob/master/README.md) | Create and add prodcts to cart in your React eCommerce app |
+| [React.js - Adding products to cart](https://github.com/kingmoc/adding-products-cart-cjs-react/blob/master/README.md) | Create and add products to cart in your React eCommerce app |
 | [React.js - Creating a single page checkout](https://github.com/kingmoc/single-page-checkout-cjs-react/blob/master/README.md) | Build a single page checkout with Stripe and the Commerce.js SDK |
 | [React.js - Displaying a receipt + webhook notification](https://github.com/kingmoc/create-receipt-webhook-slack-notification-cjs-react/blob/master/README.md) | Create an order confirmation display to the customer plus build a webhook notification with Slack |
 | [Three.js - Building a product display page with React](https://github.com/Andreloui5/CommerceWithThree/blob/master/README.md) | Create a product display page with a Three.js rendered product image |
-| [Three.js - Creating a cart with React](https://github.com/Andreloui5/CommerceWithThree-part2/blob/master/README.md) | Create a interactive cart with Three.js rendered products |
+| [Three.js - Creating a cart with React](https://github.com/Andreloui5/CommerceWithThree-part2/blob/master/README.md) | Create an interactive cart with Three.js rendered products |
 | [Gatsby - Building static product pages](https://dev.to/notrab/build-static-product-pages-with-gatsby-and-commerce-js-3952) | Build static product pages on the JAMstack with Gatsby and Commerce.js |
 
 
