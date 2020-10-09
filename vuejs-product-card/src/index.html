@@ -1,0 +1,17 @@
+<div id="app" class="container">
+  <div v-for="product in products" :key="product.id" class="images">
+              <img class="card-img-top"
+             :src="product.media.source"
+             :alt="product.name"/>
+  </div>
+  <div class="product" v-for="product in products" :key="product.id">
+    <p>The Livv</p>
+    <h1>{{product.name}}</h1>
+    <h2>{{product.price.formatted_with_symbol}}</h2>
+    <p class="desc" v-html="product.description"></p>
+    <div class="buttons">
+      <button class="add">Add to Cart</button>
+      <button class="like"><span>♥</span></button>
+    </div>
+  </div>
+</div>

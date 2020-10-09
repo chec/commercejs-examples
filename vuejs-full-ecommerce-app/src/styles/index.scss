@@ -1,0 +1,59 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css);
+
+body{
+    background-color: #EFEBE7;
+}
+
+.bg-dark{
+    background-color: #1c1c1c !important;
+}
+.badge-primary{
+    background-color: #808080;
+    border-color: #808080;
+}
+
+.navbar-dark{
+    .navbar-nav{
+        .nav-link{
+            color:#999;
+            font-weight: 600;
+        }
+    }
+}
+.btn.btn-primary{
+    background-color: #1c1c1c;
+    border-color: #1c1c1c;
+    color: #EFEBE7;
+    &:hover,
+    &:active,
+    &:focus{
+        background-color: #000 !important;
+        border-color: #000 !important;
+        box-shadow:none;
+    }
+}
+.btn-danger, .badge-danger{
+    background-color: #CA2F0C;
+    border-color: #CA2F0C;
+    font-size: 11px;
+    &:hover,
+    &:active,
+    &:focus{
+        background-color: #CA2F0C !important;
+        border-color: #CA2F0C !important;
+        box-shadow:none;
+    }
+}
+.hide-mobile{
+    display: block;
+    @media only screen and (max-width: 991px) {
+        display: none;
+    }
+}
+.show-mobile{
+
+    display: none;
+    @media only screen and (max-width: 991px) {
+        display: block;
+    }
+}

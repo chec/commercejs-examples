@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css?family=Martel:300,400,600,700|Questrial&display=swap");
+/* center container in the middle */
+html {
+  display: grid;
+  min-height: 100%;
+}
+
+body {
+  display: grid;
+  background: #87978C;
+  font-family: "Questrial", sans-serif, sans-serif;
+  text-transform: uppercase;
+}
+
+.container {
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  width: 520px;
+  height: 350px;
+  background: #F5F5F5;
+  box-shadow: 5px 5px 15px rgba(113, 172, 133, 0.5);
+  border-radius: 10px;
+}
+
+p {
+  font-size: 0.6em;
+  color: #71AC85;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 1.2em;
+  color: #4E4E4E;
+  margin-top: -5px;
+}
+
+h2 {
+  color: black;
+  margin-top: -5px;
+}
+
+img {
+  width: 290px;
+}
+
+.product {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  top: 10%;
+  left: 60%;
+}
+
+.desc {
+  text-transform: none;
+  letter-spacing: 0;
+  margin-bottom: 17px;
+  color: #4E4E4E;
+  font-size: .7em;
+  line-height: 1.6em;
+  margin-right: 25px;
+  text-align: justify;
+}
+
+button {
+  background: #6d7e72;
+  padding: 10px;
+  display: inline-block;
+  outline: 0;
+  border: 0;
+  margin: -1px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #F5F5F5;
+  cursor: pointer;
+}
+button:hover {
+  background: #71AC85;
+  transition: all .4s ease-in-out;
+}
+
+.add {
+  width: 67%;
+}
+
+.like {
+  width: 22%;
+}
+
+.focus {
+  background: #71AC85;
+  color: #F5F5F5;
+}

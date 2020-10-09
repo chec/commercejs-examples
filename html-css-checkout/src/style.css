@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Martel+Sans:400,700,900&display=swap');
+
+body {
+  text-align: center;
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-size: 14px;
+  color: #283341;
+  letter-spacing: 1.1px;
+}
+#checkout {
+  display: inline-block;
+  margin: 10px 0 50px;
+  text-align: left;
+  background-color: white;
+  padding: 20px 40px;
+  border-radius: 7px 7px 7px 7px;
+  -webkit-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
+hr{
+	border-top: 1px solid #7187A5;
+  margin: 0 0 25px 0;
+}
+
+h1{
+  margin: 40px 0 20px;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  margin-bottom: 0;
+}
+
+b {
+  font-weight: 600;
+}
+.block {
+  margin: 25px auto;
+}
+.row {
+  margin: 5px auto;
+}
+
+.padded{
+  padding-right: 15px;
+}
+
+.column{
+  display: flex;
+}
+
+label, input{
+  display: block;
+}
+
+label{
+  color: #41556C;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+}
+input,
+select {
+  margin: 0;
+  height: 30px;
+  width: 200px;
+  border-radius: 3px;
+  border: 1px solid #D3E0F1;
+  padding: 3px 5px;
+}
+
+
+::placeholder { 
+  color: #7187A5;
+  letter-spacing: 1.15px;
+  font-size: 12px;
+}
+
+button {
+  font-size: 16px;
+  padding: 15px 25px;
+  width: 200px;
+  background-color: #2C7EA1;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  float: right;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 1.15px;
+  font-weight: 500px;
+}
+
+button:hover{
+  background-color: lighten(80%);
+}
