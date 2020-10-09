@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Checkout Demo</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!---
+This is a advanced javascript checkout built with Commerce.js (http://commercejs.com).
+!-->
+<html>
+<head>
+  <title>Checkout</title>
+<script type="text/javascript" src="https://assets.chec-cdn.com/v2/commerce.js"></script>
+
+</head>
+<body>
+  
+  <script></script>
+
+  <h1>Checkout</h1>
+
+<form id="checkout">
+
+  <div id="customer" class="block">
+
+    <h3>Customer Details</h3>
+    <hr>
+
+    <div class="column">
+    <div class="row padded">
+      <label>First Name</label>
+      <input type="text" name="customer[firstname]" value="Jane" placeholder="First Name">
+    </div>
+    
+    <div class="row">
+      <label>Last Name</label>
+      <input type="text" name="customer[lastname]" value="Doe" placeholder="Last Name">
+    </div>
+</div>
+
+    <div class="row">
+      <label>Email</label>
+      <input type="text" name="customer[email]" value="janedoe@email.com" placeholder="Email">
+    </div>
+
+  </div>
+
+  <div id="shipping" class="block">
+
+    <h3>Shipping Details</h3>
+    <hr>
+
+    <div class="row">
+      <label>Country</label>
+      <select name="shipping[country]" onchange="localeListShippingCountries($(this).val())"></select>
+    </div>
+
+    <div class="row">
+      <label>Name</label>
+      <input type="text" name="shipping[name]" value="Jane Doe">
+    </div>
+
+    <div class="row">
+      <label>Street Address</label>
+      <input type="text" name="shipping[street]" value="123 Test St.">
+    </div>
+    
+    <div class="column">
+      <div class="row padded">
+        <label>City</label>
+        <input type="text" name="shipping[town_city]" value="Fake City">
+      </div>
+
+      <div class="row">
+        <label>Province/Region/State</label>
+        <select name="shipping[county_state]"></select>
+      </div>
+    </div>
+     
+    <div class="column">
+    <div class="row padded">
+      <label>Postal/Zip Code</label>
+      <input type="text" name="shipping[postal_zip_code]" value="94107">
+    </div>
+    
+    <div class="row">
+      <label>Shipping method</label>
+    <select name="fulfillment[shipping_method]"></select>
+  </div>
+   </div>
+
+  </div>
+  
+  <div id="payment" class="block">
+
+    <h3>Payment</h3>
+    <hr>
+
+    <div class="row">
+      <label>Card Number</label>
+      <input type="text" name="payment[card][number]" value="4242 4242 4242 4242" placeholder="Card Number">
+    </div>
+    
+    <div class="column">
+          <div class="row padded">
+      <label>Expiry Month</label>
+      <input type="text" name="payment[card][expiry_month]" value="01" placeholder="Expiry Month">
+    </div>
+
+    <div class="row">
+      <label>Expiry Year</label>
+      <input type="text" name="payment[card][expiry_year]" value="2021" placeholder="Expiry Year">
+    </div>
+    </div>
+
+<div class="column">
+    <div class="row padded">
+      <label>Security Code (CCV)</label>
+      <input type="text" name="payment[card][cvc]" value="123" placeholder="Security Code (CCV)">
+    </div>
+
+    <div class="row">
+      <label>Billing Postal/Zip Code</label>
+      <input type="text" name="payment[card][postal_zip_code]" value="94107" placeholder="Billing Postal/Zip Code">
+    </div>
+    </div>
+
+  </div>
+
+  <button type="button" onclick="capture();">Pay Now</button>
+
+</form>
+
+</body>
+<html>
+<!-- partial -->
+  <script src='https://assets.chec-cdn.com/v2/commerce.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
