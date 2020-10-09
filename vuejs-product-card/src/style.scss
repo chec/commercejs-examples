@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Martel:300,400,600,700|Questrial&display=swap');
+$font: 'Questrial', sans-serif;
+
+$white: #F5F5F5;
+$light: #87978C;
+$tan: #C3A1A0;
+$green: #71AC85;
+$dark: #4E4E4E;
+
+/* center container in the middle */
+html {
+  display: grid;
+  min-height: 100%;
+}
+
+body {
+  display: grid;
+  background: $light;
+  font-family: $font, sans-serif;
+  text-transform: uppercase;
+}
+
+.container {
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  width: 520px;
+  height: 350px;
+  background: $white;
+  box-shadow: 5px 5px 15px rgba($green, .5);
+  border-radius: 10px;
+}
+
+p {
+  font-size: 0.6em;
+  color: $green;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 1.2em;
+  color: $dark;
+  margin-top: -5px;
+}
+
+h2 {
+  color: black;
+  margin-top: -5px;
+}
+
+img {
+  width: 290px;
+}
+
+
+.product {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  top: 10%;
+  left: 60%;
+}
+
+.desc {
+  text-transform: none;
+  letter-spacing: 0;
+  margin-bottom: 17px;
+  color: $dark;
+  font-size: .7em;
+  line-height: 1.6em;
+  margin-right: 25px;
+  text-align: justify;
+}
+
+button {
+  background: darken($light, 10%);
+  padding: 10px;
+  display: inline-block;
+  outline: 0;
+  border: 0;
+  margin: -1px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: $white;
+  cursor: pointer;
+  &:hover {
+    background: $green;
+    transition: all .4s ease-in-out;
+  }
+}
+
+.add {
+  width: 67%;
+}
+
+.like {
+  width: 22%;
+}
+
+
+.focus{
+  background: $green;
+  color: $white;
+}
