@@ -1,0 +1,13 @@
+@mixin button-bg($bg) {
+    background: $bg;
+    color: white;
+    border-radius: 18px;
+    text-transform: uppercase;
+    &:hover {
+      background:darken($bg,8%);
+      transition: all 0.3s ease;
+    }
+    &:active {
+      background:darken($bg,25%);
+    } 
+}
