@@ -79,7 +79,8 @@ We have broken down our examples into categories with descriptions:
 | Video   |      Description      |
 |----------|-------------|
 | [Nuxt.js - Storefront, categories and product pages](https://www.youtube.com/playlist?list=PLs2PzMqLzi7Uu7bRsaIdOE-b8LQDqnLez) | Build a simple storefront with categories and individual product pages using Nuxt.js |
-| [Next.js - Storefront, cstegories and product pages](https://www.youtube.com/playlist?list=PLs2PzMqLzi7VRJoFcBXMabDue2uC6_eJX) | Create a storefront with categories and individual product pages using Next.js |
+| [Next.js - Storefront, categories and product pages](https://www.youtube.com/playlist?list=PLs2PzMqLzi7VRJoFcBXMabDue2uC6_eJX) | Create a storefront with categories and individual product pages using Next.js |
+| [Gatsby - build a gatsby storefront](https://www.youtube.com/watch?v=LAJFFoC7vgs&list=PLZwaQmdZ28AyELSNhDd13VP6JwuYHp9go) | Create a storefront with categories and individual product pages using Gatsby |
 
 ## Contributing to our resources
 
