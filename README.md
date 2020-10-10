@@ -1,8 +1,12 @@
 <img src="assets/logo.svg" alt="Commerce.js" />
 
-# Examples
+# Commerce.js Examples
 
-Welcome to an index of Commerce.js examples to help you get started with your first commerce project. 
+Example projects to help you get started with Commerce.js.
+
+[Join our Slack](http://slack.commercejs.com/) · [Read the Docs](https://commercejs.com/docs) · [Learn more about Commerce.js](https://commercejs.com/)
+
+## Examples
 
 We have broken down our examples into categories with descriptions:
 
@@ -14,7 +18,7 @@ We have broken down our examples into categories with descriptions:
 | Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Community docs page](https://commercejs.com/docs/community/) |
 | Videos | Short sharp video guides demonstrating how to use the Commerce.js SDK to build projects | [Youtube](https://www.youtube.com/channel/UCYfSYLhUnmIp7ye730MG8-Q) |
 
-## Demo stores
+### Demo stores
 | Examples   |      Description      |  
 |----------|-------------|
 | [Next.js - Fullly fledged eCommerce store](https://github.com/chec/commercejs-nextjs-demo-store) | Open source demo store that can be one click deployed to **Netlify**. [Read the integration blog](https://www.netlify.com/blog/2020/07/09/create-a-fully-fledged-jamstack-commerce-store-with-commerce.js-and-netlify/) |
@@ -23,7 +27,7 @@ We have broken down our examples into categories with descriptions:
 | [React.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store) | Lightweight demo store in React.js |
 | [Vue.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store/tree/vue.js) | Lightweight demo store in Vue.js |
 
-## Code Examples
+### Code Examples
 
 | Examples   |      Description      |
 |----------|-------------|
@@ -38,7 +42,7 @@ We have broken down our examples into categories with descriptions:
 | [Vue.js - Checkout](https://codesandbox.io/s/commercejs-checkout-demo-dfqzl) | A checkout for capturing orders built with Vue.js and Commerce.js SDK v2 |
 | [HTML + CSS - Checkout](https://codepen.io/commercejs/pen/oNXvpxZ) |  A vanilla checkout form, built with the Commerce.js SDK v2 installed as a CDN |
 
-## Guides 
+### Guides 
 
 | Guides   |      Description      |
 |----------|-------------|
@@ -64,7 +68,7 @@ We have broken down our examples into categories with descriptions:
 | [Gatsby - Building static product pages](https://dev.to/notrab/build-static-product-pages-with-gatsby-and-commerce-js-3952) | Build static product pages on the JAMstack with Gatsby and Commerce.js |
 
 
-## Tutorials 
+### Tutorials 
 
 | Tutorials   |      Description      |
 |----------|-------------|
@@ -74,7 +78,7 @@ We have broken down our examples into categories with descriptions:
 | [Next.js - Create a Next.js store](https://dev.to/notrab/build-a-next-js-store-with-commerce-js-ceb) |  Build a simple storefront with categories and individual product pages using Next.js |
 | [Gatsby - Create a Gatsby storefront](https://dev.to/notrab/create-a-gatsby-store-with-chec-commerce-js-2kae) | Build a simple storefront with categories and individual product pages using Gatsby |
 
-## Videos
+### Videos
 
 | Video   |      Description      |
 |----------|-------------|
