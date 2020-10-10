@@ -31,8 +31,9 @@ We have broken down our examples into categories with descriptions:
 
 | Examples   |      Description      |
 |----------|-------------|
-| [Three.js - Product display](https://po30k.csb.app/) | Displaying a Three.js product animation in a React app |
-| [Three.js - Interactive cart](https://codesandbox.io/s/xg2wo) | An interactive cart with Three.js renderend products |
+| [React.js + Three.js - Product display](https://po30k.csb.app/) | Displaying a Three.js product animation in a React app |
+| [React.js + Three.js - Interactive cart](https://codesandbox.io/s/xg2wo) | An interactive cart with Three.js renderend products |
+| [React.js + Three.js - Animated checkout form](https://2wx95.csb.app/) | An animated, interactive checkout form |
 | [React.js - Product catalogue](https://codesandbox.io/s/ecommerce-playground-vp5m6) | A simple product catalogue built with Commerce.js SDK v2 and React.js |
 | [Vue.js - Full eCommerce app](https://codesandbox.io/s/github/norty-squad/commerce.js-integration-example) | A complete eCommerce app with cart, checkout and receipt |
 | [Vue.js - Product catalogue](https://codesandbox.io/s/product-catalogue-demo-4pvpq) |  A basic product catalogue built with Commerce.js SDK v2 and Vue.js  |
