@@ -9,9 +9,9 @@ We have broken down our examples into categories with descriptions:
 | Example  |      Description      |  Where are these hosted? |
 |----------|-------------|------|
 | Demo stores | Open source demo stores for you to fork, pull apart and build on top of | 
-| Code Examples |   Examples of granular eCommerce functionality demonstrated via IDE editors/code playgrounds.   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
-| Guides |  Step-by-step guides on eCommerce functionality and instructions on using other Commerce.js tools. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/)  |
-| Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Resources page](https://commercejs.com/resources/) |
+| Code Examples |   Examples of granular eCommerce functionality demonstrated via IDE editors/code playgrounds.   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Community docs page](https://commercejs.com/docs/community/) |
+| Guides |  Step-by-step guides on eCommerce functionality and instructions on using other Commerce.js tools. | [Blog](https://commercejs.com/blog/)</br>[Community docs page](https://commercejs.com/docs/community/)  |
+| Tutorials | Step-by-step tutorial of building a full Commerce.js app with products list, cart and checkout flow. | [Blog](https://commercejs.com/blog/)</br>[Community docs page](https://commercejs.com/docs/community/) |
 | Videos | Short sharp video guides demonstrating how to use the Commerce.js SDK to build projects | Youtube
 
 ## Demo stores
