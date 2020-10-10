@@ -1,3 +1,5 @@
+<img src="assets/logo.svg" alt="Commerce.js" />
+
 # Resources
 
 Welcome to an index of Commerce.js resources. Here you will find all our integration resources to help you get started with your first Chec and Commerce.js project. 
