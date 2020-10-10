@@ -1,12 +1,12 @@
 <img src="assets/logo.svg" alt="Commerce.js" />
 
-# Resources
+# Examples
 
-Welcome to an index of Commerce.js resources. Here you will find all our integration resources to help you get started with your first Chec and Commerce.js project. 
+Welcome to an index of Commerce.js examples to help you get started with your first Commerce.js project. 
 
-We have broken down our resources into categories with descriptions:
+We have broken down our examples into categories with descriptions:
 
-| Resource   |      Description      |  Where are these hosted? |
+| Example  |      Description      |  Where are these hosted? |
 |----------|-------------|------|
 | Demo stores | Open source demo stores for you to fork, pull apart and build on top of | 
 | Code Examples |   Examples of granular eCommerce functionality demonstrated via IDE editors/code playgrounds.   |   [CodePen](https://codepen.io/commercejs)</br>[CodeSandbox](https://codesandbox.io/)</br>  [Resources page](https://commercejs.com/resources/) |
@@ -15,7 +15,7 @@ We have broken down our resources into categories with descriptions:
 | Videos | Short sharp video guides demonstrating how to use the Commerce.js SDK to build projects | Youtube
 
 ## Demo stores
-| Resource   |      Description      |  
+| Examples   |      Description      |  
 |----------|-------------|
 | [Next.js - Fullly fledged eCommerce store](https://github.com/chec/commercejs-nextjs-demo-store) | Open source demo store that can be one click deployed to **Netlify**. [Read the integration blog](https://www.netlify.com/blog/2020/07/09/create-a-fully-fledged-jamstack-commerce-store-with-commerce.js-and-netlify/) |
 | [Next.js - Fully fledged eCommerce store](https://github.com/chec/commercejs-nextjs-vercel) | Open source demo store that can be one click deployed to **Vercel** |
@@ -82,7 +82,7 @@ We have broken down our resources into categories with descriptions:
 
 ## Contributing to our resources
 
-If you'd like to contribute to our resources with an example project you have developed using Chec API and the Commerce.js SDK, please refer to our template guidelines on writing guides and tutorial:
+If you'd like to contribute with an example project you have developed using Chec API and the Commerce.js SDK, please refer to our template guidelines on writing guides and tutorial:
 
 - [Guide template](https://github.com/chec/resources/blob/master/templates/guide-template.md)
 - [Tutorial template](https://github.com/chec/resources/blob/master/templates/tutorial-template.md)
