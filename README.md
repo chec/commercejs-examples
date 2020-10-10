@@ -19,6 +19,7 @@ We have broken down our examples into categories with descriptions:
 |----------|-------------|
 | [Next.js - Fullly fledged eCommerce store](https://github.com/chec/commercejs-nextjs-demo-store) | Open source demo store that can be one click deployed to **Netlify**. [Read the integration blog](https://www.netlify.com/blog/2020/07/09/create-a-fully-fledged-jamstack-commerce-store-with-commerce.js-and-netlify/) |
 | [Next.js - Fully fledged eCommerce store](https://github.com/chec/commercejs-nextjs-vercel) | Open source demo store that can be one click deployed to **Vercel** |
+| [Vue.js - Shoppable campaign demo](https://shoppable-campaign-demo.netlify.app/#/) | Demo site and [boilerplate](https://github.com/chec/commercejs-vuejs-boilerplate) |
 | [React.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store) | Lightweight demo store in React.js |
 | [Vue.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store/tree/vue.js) | Lightweight demo store in Vue.js |
 
