@@ -2,7 +2,7 @@
 
 # Examples
 
-Welcome to an index of Commerce.js examples to help you get started with your first Commerce.js project. 
+Welcome to an index of Commerce.js examples to help you get started with your first commerce project. 
 
 We have broken down our examples into categories with descriptions:
 
