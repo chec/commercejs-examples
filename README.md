@@ -21,6 +21,7 @@ We have broken down our examples into categories with descriptions:
 ### Demo stores
 | Examples   |      Description      |  
 |----------|-------------|
+| [Next.js - ChopChop starter kit](https://github.com/chec/commercejs-chopchop-demo) | Open source demo and starker kit built with Next.js and Commerce.js. One click deploy to Vercel, [read the blog](https://commercejs.com/blog/chopchop-nextjs-starter/)
 | [Next.js - Fullly fledged eCommerce store](https://github.com/chec/commercejs-nextjs-demo-store) | Open source demo store that can be one click deployed to **Netlify**. [Read the integration blog](https://www.netlify.com/blog/2020/07/09/create-a-fully-fledged-jamstack-commerce-store-with-commerce.js-and-netlify/) |
 | [Next.js - Fully fledged eCommerce store](https://github.com/chec/commercejs-nextjs-vercel) | Open source demo store that can be one click deployed to **Vercel** |
 | [Vue.js - Shoppable campaign demo](https://github.com/chec/commercejs-vuejs-boilerplate) | Boilerplate and [live demo](https://shoppable-campaign-demo.netlify.app/#/) |
