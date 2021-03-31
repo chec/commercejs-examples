@@ -27,6 +27,7 @@ We have broken down our examples into categories with descriptions:
 | [Vue.js - Shoppable campaign demo](https://github.com/chec/commercejs-vuejs-boilerplate) | Boilerplate and [live demo](https://shoppable-campaign-demo.netlify.app/#/) |
 | [React.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store) | Lightweight demo store in React.js |
 | [Vue.js - Socks and Shoes demo](https://github.com/chec/commercejs-reactjs-vuejs-demo-store/tree/vue.js) | Lightweight demo store in Vue.js |
+| [Ionic - Native mobile application](https://github.com/chec/chopchop-ionic) | ChopChop demo for Android and iOS using Ionic Framworkd |
 
 ### Code Examples
 
